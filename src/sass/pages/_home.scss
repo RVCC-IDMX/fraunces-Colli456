@@ -7,3 +7,23 @@ body {
   font-family: type.$font;
   background-color: var.$bg-very-light;
 }
+
+.header {
+  font-variation-settings: "WONK" 1, "SOFT" 56.8, "opaz" 9, ;
+  font-weight: 100;
+}
+
+.header_title {
+  font-variation-settings: "WONK" 1, "SOFT" 56.8, "opaz" 9, ;
+  font-weight: 100;
+}
+
+.header__desc--first {
+  font-variation-settings: "WONK" 1, "SOFT" 56.8, "opaz" 9, ;
+  font-weight: 100;
+}
+
+.header__desc {
+  font-variation-settings: "WONK" 1, "SOFT" 56.8, "opaz" 9, ;
+  font-weight: 100;
+}
